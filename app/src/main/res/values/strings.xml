@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3Monetizacao</string>
+    <string name="login">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="banner_name">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
